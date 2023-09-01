@@ -12,6 +12,9 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 
+![](<Class Diagram_ Courier Service.png>)
+
+
 - Minutos relevantes do 00:15 até 00:55
 
 ###### Comportamentos esperados:
